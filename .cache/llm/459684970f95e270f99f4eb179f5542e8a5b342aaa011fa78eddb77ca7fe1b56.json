@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "E-stops at the load port and operator panel.",
+ "reason": "The supplier lists emergency stops at two locations, but the requirement calls for devices at each operating position; without confirmation that these are all positions, the answer only partially addresses the requirement.",
+ "confidence": 0.66
+}

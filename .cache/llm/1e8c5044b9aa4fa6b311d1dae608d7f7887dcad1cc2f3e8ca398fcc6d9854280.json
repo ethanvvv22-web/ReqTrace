@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Test cell door is interlocked with guard locking; the drive stops when the door is opened.",
+ "reason": "The supplier explicitly states that the door (movable guard) is interlocked and that the drive stops when the door is opened, directly satisfying the requirement that hazardous functions cannot start while the guard is open and must stop when opened.",
+ "confidence": 0.98
+}

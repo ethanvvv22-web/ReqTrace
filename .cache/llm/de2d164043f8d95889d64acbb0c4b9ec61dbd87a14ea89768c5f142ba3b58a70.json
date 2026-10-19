@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "Safety functions designed according to good engineering practice.",
+ "reason": "The answer does not reference EN ISO 13849-1, the required performance level, or the delivery of a calculation report, which are explicit parts of the requirement.",
+ "confidence": 0.96
+}

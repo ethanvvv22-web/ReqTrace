@@ -1,0 +1,39 @@
+{
+ "features": [
+  {
+   "feature": "electrical",
+   "quote": "driven by a 400 kW electric motor",
+   "reason": "The description mentions an electric motor, indicating electrical supply and motor components."
+  },
+  {
+   "feature": "moving_parts",
+   "quote": "driven by a 400 kW electric motor at up to 2,500 rpm",
+   "reason": "The motor speed implies rotating machine parts."
+  },
+  {
+   "feature": "hot_surfaces",
+   "quote": "Gearbox oil is conditioned to 120 °C",
+   "reason": "The oil temperature creates hot surfaces or fluids."
+  },
+  {
+   "feature": "lifting",
+   "quote": "technicians swap the gearbox using the hall crane",
+   "reason": "A crane is used to lift and move the gearbox."
+  },
+  {
+   "feature": "operator_access",
+   "quote": "technicians swap the gearbox using the hall crane",
+   "reason": "Technicians must access the machine to load or unload the gearbox."
+  },
+  {
+   "feature": "software_control",
+   "quote": "run from a PLC with an HMI",
+   "reason": "A PLC and HMI constitute a programmable control system."
+  },
+  {
+   "feature": "remote_access",
+   "quote": "supplier asks for remote diagnostics",
+   "reason": "Remote diagnostics require network or remote access capability."
+  }
+ ]
+}

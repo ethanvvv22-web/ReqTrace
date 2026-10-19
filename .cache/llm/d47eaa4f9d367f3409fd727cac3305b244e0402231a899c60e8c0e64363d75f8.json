@@ -1,0 +1,14 @@
+{
+ "features": [
+  {
+   "feature": "pneumatic",
+   "quote": "using cylinders on 6 bar shop air",
+   "reason": "cylinders powered by compressed air indicate pneumatic actuation"
+  },
+  {
+   "feature": "moving_parts",
+   "quote": "opens and slams a cab door 200,000 times",
+   "reason": "the door’s repeated opening and slamming involve rotating/moving machine parts"
+  }
+ ]
+}

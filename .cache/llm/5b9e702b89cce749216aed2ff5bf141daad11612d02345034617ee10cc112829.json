@@ -1,0 +1,14 @@
+{
+ "features": [
+  {
+   "feature": "software_control",
+   "quote": "new PLC program, new HMI",
+   "reason": "Indicates a programmable control system with PLC and HMI"
+  },
+  {
+   "feature": "remote_access",
+   "quote": "support connection so the supplier can troubleshoot from their office",
+   "reason": "Specifies a network connection for remote support/diagnostics"
+  }
+ ]
+}

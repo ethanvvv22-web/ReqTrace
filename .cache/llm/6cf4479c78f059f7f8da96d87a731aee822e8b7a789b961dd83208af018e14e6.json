@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Setup mode with enabling device and reduced speed 250 mm/s.",
+ "reason": "The answer explicitly confirms that movements in setup mode require an enabling device and are limited to a reduced speed, directly satisfying the requirement.",
+ "confidence": 0.97
+}

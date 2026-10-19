@@ -1,0 +1,24 @@
+req_id,claimed,answer
+R001,Comply,Risk assessment per EN ISO 12100 will be delivered two weeks before FAT.
+R002,Comply,Yes.
+R003,Comply,Instructions in English. Swedish translation can be offered at extra cost.
+R004,Comply,Electrical schematics in EPLAN and parts list included. Layout drawings as PDF.
+R011,Comply,Spare parts available for 7 years; recommended spares list included.
+R012,Comply,Two days of on-site training for operators and maintenance staff.
+R013,Comply,FAT at our workshop and SAT at your site according to a jointly agreed protocol.
+R014,Comply,Warranty 12 months from delivery.
+R020,Comply,Electrical design according to EN 60204-1.
+R022,Comply,"Main switch lockable in off position, included."
+R024,Comply,Our standard cabinets are IP44; IP54 on request.
+R026,Comply,The drive restarts automatically when power returns to continue the test.
+R030,Comply,Rotating shafts are covered by fixed guards per EN ISO 14120.
+R032,Comply,Test cell door is interlocked with guard locking; the drive stops when the door is opened.
+R040,Comply,Safety functions designed according to good engineering practice.
+R041,Comply,"Emergency stop at the HMI and at the loading position, according to EN ISO 13850."
+R044,Comply,"PLC source code is not included, as it is our intellectual property; a compiled backup is provided."
+R050,,To be discussed during kick-off.
+R051,Comply,"Remote support via our own 4G router, which is installed in the cabinet."
+R070,Comply,Hot oil lines are insulated where possible.
+R076,Comply,Sound pressure at operator position approx. 82 dB(A) at full speed.
+R085,Comply,Lifting points on the gearbox adapter plate are marked with WLL.
+R095,Partly,Anti-slip flooring around the rig is by the customer.

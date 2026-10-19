@@ -1,0 +1,29 @@
+{
+ "features": [
+  {
+   "feature": "hydraulic",
+   "quote": "fed by a hydraulic power unit with a bladder accumulator",
+   "reason": "The description explicitly mentions a hydraulic power unit, indicating hydraulic power and components."
+  },
+  {
+   "feature": "pressure_equipment",
+   "quote": "up to 600 bar, fed by a hydraulic power unit with a bladder accumulator",
+   "reason": "The system operates at high pressure (600 bar) and includes a bladder accumulator, qualifying it as pressure equipment."
+  },
+  {
+   "feature": "hot_surfaces",
+   "quote": "Test fluid is heated to 100 °C",
+   "reason": "Heated test fluid creates hot surfaces or fluids that operators may encounter."
+  },
+  {
+   "feature": "operator_access",
+   "quote": "Hoses are fitted by hand inside a test chamber with an interlocked door",
+   "reason": "Operators must manually load/fit hoses inside the chamber, indicating operator access during normal use."
+  },
+  {
+   "feature": "software_control",
+   "quote": "The pulse sequence is programmed on the bench controller",
+   "reason": "Programming the pulse sequence implies a programmable control system (PLC/HMI)."
+  }
+ ]
+}

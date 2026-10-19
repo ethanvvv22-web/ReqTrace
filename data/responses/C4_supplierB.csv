@@ -1,0 +1,23 @@
+req_id,claimed,answer
+R001,Comply,Comply.
+R003,Comply,"Instructions in Swedish and English, digital, paper copy on request."
+R004,Comply,All schematics and drawings delivered in native EPLAN and DWG format together with full parts list.
+R010,Partly,Load port height is 900 mm; ergonomic study not included.
+R011,Comply,Spare parts guaranteed for 10 years.
+R012,Comply,1 day of training included.
+R014,Comply,24 months warranty from SAT.
+R020,Comply,Comply with EN 60204-1.
+R024,Comply,IP54 cabinets.
+R030,Comply,Cell fenced with 2.2 m mesh fencing according to EN ISO 14120; distances per EN ISO 13857.
+R032,Comply,"Access door with safety switch and guard locking, PL d."
+R040,Comply,"PL d for all safety functions, verified with SISTEMA; report delivered at FAT."
+R041,Comply,E-stops at the load port and operator panel.
+R044,Comply,"Source code included, with commented safety program."
+R046,,
+R050,Comply,Network interface separated by a firewall; safety PLC is not reachable from the MES network.
+R051,Comply,Remote access only through the buyer's approved solution.
+R052,TBD,Security level to be agreed.
+R080,Comply,Robot cell designed and validated according to EN ISO 10218-2.
+R081,Comply,No collaborative operation is used; the robot works behind fencing only.
+R095,Comply,Walkways with anti-slip coating.
+R096,Comply,Setup mode with enabling device and reduced speed 250 mm/s.

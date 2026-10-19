@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Rotating shafts are covered by fixed guards per EN ISO 14120.",
+ "reason": "The answer explicitly states that the moving parts (rotating shafts) are prevented from being reached by fixed guards, directly satisfying the requirement.",
+ "confidence": 0.98
+}

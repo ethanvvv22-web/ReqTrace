@@ -1,0 +1,24 @@
+{
+ "features": [
+  {
+   "feature": "electrical",
+   "quote": "high-pressure pump is belt-driven by an electric motor",
+   "reason": "The presence of an electric motor indicates an electrical supply and motor component."
+  },
+  {
+   "feature": "hydraulic",
+   "quote": "high-pressure pump",
+   "reason": "A high‑pressure pump creates a pressurised fluid circuit, matching the hydraulic feature definition."
+  },
+  {
+   "feature": "moving_parts",
+   "quote": "high-pressure pump is belt-driven",
+   "reason": "The belt‑driven pump involves rotating shafts and moving mechanical components."
+  },
+  {
+   "feature": "operator_access",
+   "quote": "Injectors are mounted manually",
+   "reason": "Manual mounting implies operators load or mount parts during normal use."
+  }
+ ]
+}

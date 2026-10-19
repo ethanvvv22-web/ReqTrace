@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Cell fenced with 2.2 m mesh fencing according to EN ISO 14120; distances per EN ISO 13857.",
+ "reason": "The answer specifies a guard (2.2 m mesh fencing) that complies with EN ISO 14120 and EN ISO 13857, directly addressing the requirement to prevent access to moving parts.",
+ "confidence": 0.97
+}

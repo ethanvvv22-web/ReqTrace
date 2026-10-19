@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "Network interface separated by a firewall; safety PLC is not reachable from the MES network.",
+ "reason": "The answer shows isolation of the safety PLC from the MES network, addressing remote‑access hazards, but it does not explicitly describe how hardware or software components critical for safety are protected against corruption (e.g., authentication, integrity checks).",
+ "confidence": 0.78
+}

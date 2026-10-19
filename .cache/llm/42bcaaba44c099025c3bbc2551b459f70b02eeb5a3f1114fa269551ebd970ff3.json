@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "The drive restarts automatically when power returns to continue the test.",
+ "reason": "The answer states the drive restarts automatically on power return, directly contradicting the requirement that restoration shall not cause an unexpected start.",
+ "confidence": 0.98
+}

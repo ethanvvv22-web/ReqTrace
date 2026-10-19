@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "Warranty 12 months from delivery.",
+ "reason": "The supplier offers only 12 months warranty from delivery, which is less than the required minimum of 24 months from SAT approval.",
+ "confidence": 0.99
+}

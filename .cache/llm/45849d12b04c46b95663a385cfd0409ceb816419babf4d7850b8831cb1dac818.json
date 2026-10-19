@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "Source code included, with commented safety program.",
+ "reason": "Supplier confirms source code and comments but makes no mention of the required backup procedure, so the requirement is only partially met.",
+ "confidence": 0.92
+}

@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Remote access only through the buyer's approved solution.",
+ "reason": "The supplier explicitly states that remote access will be performed solely via the buyer‑approved solution, directly satisfying the requirement and rejecting supplier‑owned routers or permanent VPN tunnels.",
+ "confidence": 0.99
+}

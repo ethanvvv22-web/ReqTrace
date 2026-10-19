@@ -1,0 +1,34 @@
+{
+ "features": [
+  {
+   "feature": "electrical",
+   "quote": "compressor refrigeration circuit",
+   "reason": "The refrigeration circuit requires electrical supply and drives for the compressor."
+  },
+  {
+   "feature": "moving_parts",
+   "quote": "compressor refrigeration circuit",
+   "reason": "A compressor contains rotating shafts and moving components."
+  },
+  {
+   "feature": "operator_access",
+   "quote": "Personnel walk in to place test objects",
+   "reason": "Operators physically enter the chamber to load test objects."
+  },
+  {
+   "feature": "hot_surfaces",
+   "quote": "-40 to +85 °C",
+   "reason": "The chamber operates at extreme temperature ranges affecting surfaces and test objects."
+  },
+  {
+   "feature": "software_control",
+   "quote": "A programmable controller runs the temperature profiles",
+   "reason": "A programmable controller provides software‑based control of the test process."
+  },
+  {
+   "feature": "pressure_equipment",
+   "quote": "compressor refrigeration circuit",
+   "reason": "The refrigeration circuit involves refrigerant under pressure, qualifying as pressure equipment."
+  }
+ ]
+}

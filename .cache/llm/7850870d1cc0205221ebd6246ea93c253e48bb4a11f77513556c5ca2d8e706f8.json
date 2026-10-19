@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "PLC source code is not included, as it is our intellectual property; a compiled backup is provided.",
+ "reason": "The requirement mandates delivery of source code, comments, and a backup procedure. Supplier explicitly states source code will not be provided, violating the requirement.",
+ "confidence": 0.99
+}

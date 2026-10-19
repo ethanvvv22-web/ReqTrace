@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "Remote support via our own 4G router, which is installed in the cabinet.",
+ "reason": "The answer proposes using a supplier-owned router, which directly violates the requirement that only the buyer‑approved remote access solution may be used and that supplier‑owned routers are not permitted.",
+ "confidence": 0.99
+}

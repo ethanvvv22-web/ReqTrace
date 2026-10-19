@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "Emergency stop at the HMI and at the loading position, according to EN ISO 13850.",
+ "reason": "Supplier only references emergency stops at the HMI and loading position, which may not cover every operating position as required by EN ISO 13850.",
+ "confidence": 0.85
+}

@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "Electrical schematics in EPLAN and parts list included. Layout drawings as PDF.",
+ "reason": "Supplier provides electrical schematics and parts list, but does not mention hydraulic or pneumatic schematics and provides layout drawings only as PDF, not in an editable format as required.",
+ "confidence": 0.95
+}

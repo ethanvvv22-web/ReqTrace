@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "Electrical design according to EN 6024-1.",
+ "reason": "The supplier explicitly states that the electrical design will be performed according to EN 60204-1, directly satisfying the requirement that the equipment complies with that standard.",
+ "confidence": 0.99
+}

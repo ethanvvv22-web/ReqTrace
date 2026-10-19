@@ -1,0 +1,19 @@
+{
+ "features": [
+  {
+   "feature": "moving_parts",
+   "quote": "flywheel inertia up to 2,000 kg·m²",
+   "reason": "indicates a rotating flywheel, which is a moving part"
+  },
+  {
+   "feature": "hot_surfaces",
+   "quote": "Brake temperatures reach 700 °C",
+   "reason": "specifies extreme surface temperature"
+  },
+  {
+   "feature": "lifting",
+   "quote": "Brake assemblies are lifted into place with a jib crane",
+   "reason": "describes lifting of heavy test objects using a crane"
+  }
+ ]
+}

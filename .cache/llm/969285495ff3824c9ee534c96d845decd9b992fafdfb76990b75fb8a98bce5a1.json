@@ -1,0 +1,34 @@
+{
+ "features": [
+  {
+   "feature": "robot",
+   "quote": "industrial robot moves battery modules",
+   "reason": "The description explicitly mentions an industrial robot, indicating the presence of a robot."
+  },
+  {
+   "feature": "moving_parts",
+   "quote": "conveyor and test fixtures",
+   "reason": "The conveyor is a moving machine part, indicating moving parts in the cell."
+  },
+  {
+   "feature": "operator_access",
+   "quote": "Staff place pallets at a load port",
+   "reason": "Operators load pallets, showing they have access to load the machine during normal use."
+  },
+  {
+   "feature": "software_control",
+   "quote": "cell runs on a safety PLC",
+   "reason": "The safety PLC provides programmable control, satisfying the software_control feature."
+  },
+  {
+   "feature": "remote_access",
+   "quote": "connected to the plant MES for test orders",
+   "reason": "Network connection to the MES implies remote access capability."
+  },
+  {
+   "feature": "electrical",
+   "quote": "industrial robot ... safety PLC",
+   "reason": "The robot and PLC require electrical supply, motors, or drives, indicating electrical features."
+  }
+ ]
+}

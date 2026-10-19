@@ -1,0 +1,6 @@
+{
+ "status": "non_compliant",
+ "quote": "Sound pressure at operator position approx. 82 dB(A) at full speed.",
+ "reason": "The reported level (82 dB(A)) exceeds the maximum allowed 80 dB(A), so the requirement is not met.",
+ "confidence": 0.99
+}

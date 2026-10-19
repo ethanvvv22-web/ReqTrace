@@ -1,0 +1,46 @@
+response,req_id,gold,labeled_by,verified_by,note
+C1_supplierA,R001,compliant,assistant-draft,,
+C1_supplierA,R002,compliant,assistant-draft,,bare yes - compliant claim but no evidence
+C1_supplierA,R003,partial,assistant-draft,,Swedish only at extra cost
+C1_supplierA,R004,partial,assistant-draft,,layout drawings not in editable format
+C1_supplierA,R011,non_compliant,assistant-draft,,7 < 10 years
+C1_supplierA,R012,compliant,assistant-draft,,two days >= 1 day
+C1_supplierA,R013,compliant,assistant-draft,,
+C1_supplierA,R014,non_compliant,assistant-draft,,12 < 24 months
+C1_supplierA,R020,compliant,assistant-draft,,
+C1_supplierA,R022,compliant,assistant-draft,,
+C1_supplierA,R024,partial,assistant-draft,,IP54 only on request
+C1_supplierA,R026,non_compliant,assistant-draft,,automatic restart is exactly what is forbidden
+C1_supplierA,R030,compliant,assistant-draft,,
+C1_supplierA,R032,compliant,assistant-draft,,
+C1_supplierA,R040,unclear,assistant-draft,,no performance level or report
+C1_supplierA,R041,compliant,assistant-draft,,
+C1_supplierA,R044,non_compliant,assistant-draft,,source code withheld
+C1_supplierA,R050,unclear,assistant-draft,,
+C1_supplierA,R051,non_compliant,assistant-draft,,supplier-owned router explicitly not permitted
+C1_supplierA,R070,unclear,assistant-draft,,"""where possible"" - no commitment"
+C1_supplierA,R076,non_compliant,assistant-draft,,82 > 80 dB(A)
+C1_supplierA,R085,compliant,assistant-draft,,
+C1_supplierA,R095,non_compliant,assistant-draft,,pushed to buyer
+C4_supplierB,R001,compliant,assistant-draft,,bare comply
+C4_supplierB,R003,compliant,assistant-draft,,paper on request is what the requirement asks
+C4_supplierB,R004,compliant,assistant-draft,,
+C4_supplierB,R010,partial,assistant-draft,,
+C4_supplierB,R011,compliant,assistant-draft,,
+C4_supplierB,R012,compliant,assistant-draft,,
+C4_supplierB,R014,compliant,assistant-draft,,
+C4_supplierB,R020,compliant,assistant-draft,,
+C4_supplierB,R024,compliant,assistant-draft,,
+C4_supplierB,R030,compliant,assistant-draft,,
+C4_supplierB,R032,compliant,assistant-draft,,
+C4_supplierB,R040,compliant,assistant-draft,,
+C4_supplierB,R041,compliant,assistant-draft,,
+C4_supplierB,R044,compliant,assistant-draft,,
+C4_supplierB,R046,unclear,assistant-draft,,no answer
+C4_supplierB,R050,compliant,assistant-draft,,
+C4_supplierB,R051,compliant,assistant-draft,,"""only"" here strengthens compliance"
+C4_supplierB,R052,unclear,assistant-draft,,
+C4_supplierB,R080,compliant,assistant-draft,,
+C4_supplierB,R081,compliant,assistant-draft,,not applicable - no collaborative operation
+C4_supplierB,R095,compliant,assistant-draft,,
+C4_supplierB,R096,compliant,assistant-draft,,

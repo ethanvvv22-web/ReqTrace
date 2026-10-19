@@ -1,0 +1,6 @@
+{
+ "status": "compliant",
+ "quote": "No collaborative operation is used; the robot works behind fencing only.",
+ "reason": "The requirement is conditional on using collaborative operation; supplier explicitly states collaborative operation is not used, so the ISO/TS 15066 limits are not applicable, satisfying the requirement.",
+ "confidence": 0.95
+}

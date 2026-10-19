@@ -1,0 +1,6 @@
+{
+ "status": "partial",
+ "quote": "Spare parts available for 7 years; recommended spares list included.",
+ "reason": "The supplier provides the recommended spare parts list, satisfying that part of the requirement, but the availability period is only 7 years, which is less than the required minimum of 10 years, so the requirement is only partially met.",
+ "confidence": 0.98
+}
